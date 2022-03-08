@@ -7,11 +7,11 @@
 
 Languages and tools
 <div>
-<img src="" title="Javascript" style="height:50px/>
-<img src="" title="Javascript" style="height:50px/>
-<img src="" title="Javascript" style="height:50px/>
-<img src="" title="Javascript" style="height:50px/>
-<img src="" title="Javascript" style="height:50px/>
+<img src="https://github.com/AkhmedovTimur/AkhmedovTimur/blob/main/assets/js.png" title="Javascript" style="height:50px"/>
+<img src="https://github.com/AkhmedovTimur/AkhmedovTimur/blob/main/assets/css.png" title="CSS" style="height:50px"/>
+<img src="" title="Javascript" style="height:50px"/>
+<img src="" title="Javascript" style="height:50px"/>
+<img src="" title="Javascript" style="height:50px"/>
 
 </div>
 
