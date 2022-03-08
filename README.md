@@ -6,6 +6,13 @@
 игры 🎲. Последний год увлекаюсь it сферой 🖥️.
 
 Languages and tools
-<img src="https://github.com/AkhmedovTimur/AkhmedovTimur/blob/main/assets/4373213_js_logo_logos_icon.png" title="Javascript"/>
+<div>
+<img src="" title="Javascript" style="height:50px/>
+<img src="" title="Javascript" style="height:50px/>
+<img src="" title="Javascript" style="height:50px/>
+<img src="" title="Javascript" style="height:50px/>
+<img src="" title="Javascript" style="height:50px/>
+
+</div>
 
 Follow me
