@@ -9,9 +9,14 @@ Languages and tools
 <div>
 <img src="https://github.com/AkhmedovTimur/AkhmedovTimur/blob/main/assets/js.png" title="Javascript" style="height:50px"/>
 <img src="https://github.com/AkhmedovTimur/AkhmedovTimur/blob/main/assets/css.png" title="CSS" style="height:50px"/>
-<img src="" title="Javascript" style="height:50px"/>
-<img src="" title="Javascript" style="height:50px"/>
-<img src="" title="Javascript" style="height:50px"/>
+<img src="https://github.com/AkhmedovTimur/AkhmedovTimur/blob/main/assets/html5.png" title="HTML  " style="height:50px"/>
+<img src="https://github.com/AkhmedovTimur/AkhmedovTimur/blob/main/assets/node2.png" title="Node JS" style="height:50px"/>
+<img src="https://github.com/AkhmedovTimur/AkhmedovTimur/blob/main/assets/react.png" title="React" style="height:50px"/>
+<img src="https://github.com/AkhmedovTimur/AkhmedovTimur/blob/main/assets/redux.png" title="Redux" style="height:50px"/>
+<img src="https://github.com/AkhmedovTimur/AkhmedovTimur/blob/main/assets/Postgresql.png" title="SQL" style="height:50px"/>
+<img src="https://github.com/AkhmedovTimur/AkhmedovTimur/blob/main/assets/git.png" title="Git" style="height:50px"/>
+<img src="https://github.com/AkhmedovTimur/AkhmedovTimur/blob/main/assets/jest-logo.png" title="Jest" style="height:50px"/>
+
 
 </div>
 
