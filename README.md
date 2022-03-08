@@ -2,8 +2,10 @@
 
 # Привет <img src="https://github.com/AkhmedovTimur/AkhmedovTimur/blob/main/assets/waving-hand-joypixels.gif" width="25px" />
 ### Меня зовут Тимур, я frontend-разработчик 🧑‍💻.
-В свободное время люблю поиграть Pubg Mobile 🎮, в боулинг 🎳, любые командные
-игры 🎲. Последний год увлекаюсь it сферой 🖥️.
+<li> В свободное время люблю поиграть Pubg Mobile 🎮. </li>
+<li> В боулинг 🎳.</li>
+<li>любые командные игры 🎲.</li>
+<li> Последний год увлекаюсь it сферой 🖥️.</li>
 
 <h3>Languages and tools</h3>
 <div>
@@ -16,9 +18,8 @@
 <img src="https://github.com/AkhmedovTimur/AkhmedovTimur/blob/main/assets/Postgresql.png" title="SQL" style="height:50px"/>
 <img src="https://github.com/AkhmedovTimur/AkhmedovTimur/blob/main/assets/git.png" title="Git" style="height:50px"/>
 <img src="https://github.com/AkhmedovTimur/AkhmedovTimur/blob/main/assets/jest-logo.png" title="Jest" style="height:50px"/>
-
 </div>
 
 <h3>Follow me</h3>
-<a href="https://t.me/Akh_Timur"><img src="" alt="telegram" height=50/></a>
+<a href="https://t.me/Akh_Timur"><img src="https://github.com/AkhmedovTimur/AkhmedovTimur/blob/main/assets/tg.png" alt="telegram" height=50/></a>
 
